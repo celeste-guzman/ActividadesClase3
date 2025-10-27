@@ -1,14 +1,32 @@
 [
   {
     "id": 1,
-    "descripcion": "Estudiar"
+    "descripcion": "Estudiar",
+    "estado": "completada"
   },
   {
     "id": 3,
-    "descripcion": "Llamar a mamá"
+    "descripcion": "Llamar a mamá",
+    "estado": "completada"
   },
   {
     "id": 4,
-    "descripcion": "Alimentar a los perros y gatos"
+    "descripcion": "Alimentar a los perros y gatos",
+    "estado": "completada"
+  },
+  {
+    "id": 5,
+    "descripcion": "Lavar los platos",
+    "estado": "pendiente"
+  },
+  {
+    "id": 6,
+    "descripcion": "Estudiar Node.js",
+    "estado": "pendiente"
+  },
+  {
+    "id": 7,
+    "descripcion": "Sacar la basura",
+    "estado": "pendiente"
   }
 ]
